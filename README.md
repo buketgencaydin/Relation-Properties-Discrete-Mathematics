@@ -4,7 +4,7 @@
 -> Compile the source file: 
 
 	$ g++ -o relations relations.cpp -std=gnu++11
--> Run
+-> Run:
 
 	$ ./relations 	
 	
