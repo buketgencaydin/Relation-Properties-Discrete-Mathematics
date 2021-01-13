@@ -1,9 +1,11 @@
 # Relation-Properties-Discrete-Maths
 
 --------------------------
--> Running the source file: 
+-> Compile the source file: 
 
 	$ g++ -o relations relations.cpp -std=gnu++11
+-> Run
+	$ /.relations 	
 --------------------------
 
 An algorithm to determine if a given relation R is reflexive, symmetric, anti-symmetric, and transitive.
