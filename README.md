@@ -5,6 +5,7 @@
 
 	$ g++ -o relations relations.cpp -std=gnu++11
 -> Run
+
 	$ /.relations 	
 	
 --------------------------
